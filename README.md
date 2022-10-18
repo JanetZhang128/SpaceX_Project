@@ -29,3 +29,6 @@ Therefore, if we can determine if the first stage will land, we can determine th
 - Train the Models and perform Grid Search for each model
 - Calculate the accuracy on the test data 
 - Determine the model with best accuracy
+
+**Final Report**
+- [Winning Space Race with Data Science](https://github.com/JanetZhang128/SpaceX_Project/blob/main/Winning%20Space%20Race%20with%20Data%20Science.pdf).
